@@ -23,12 +23,6 @@
     animation: notificationAnimation 2s ease-in-out infinite;
   }
 
-  .more-screen {
-    position: absolute;
-    width : 90%;
-    height : 100%;
-    animation: notificationAnimation 2s ease-in-out;
-  }
   
   @keyframes rotateCog {
     from {
